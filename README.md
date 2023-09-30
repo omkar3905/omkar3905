@@ -79,9 +79,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="file:///C:/Users/omkar/Downloads/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png"/>
-</div>
-
-###
