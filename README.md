@@ -79,3 +79,9 @@
 </div>
 
 ###
+
+<div align="center">
+  <img height="200" src="C:\Users\omkar\Downloads\White Minimalist Corporate Personal Profile LinkedIn Banner.gif"  />
+</div>
+
+###
